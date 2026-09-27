@@ -1,4 +1,4 @@
-# 🤖 Robô Entregador
+# Robô Entregador
 
 Projeto desenvolvido para a etapa **Core Project** do processo seletivo 2026.2 do **PET Engenharia de Computação — UFC**.
 
@@ -18,7 +18,7 @@ O repositório reúne os códigos, modelos, documentação, simulações e mater
 
 ---
 
-## 🧭 Navegação pelo projeto
+## Navegação pelo projeto
 
 O repositório está organizado de acordo com as principais frentes de desenvolvimento do Robô Entregador.
 
@@ -34,11 +34,11 @@ O repositório está organizado de acordo com as principais frentes de desenvolv
 
 ---
 
-## 🔧 Visão geral do desenvolvimento
+## Visão geral do desenvolvimento
 
 O projeto foi desenvolvido de forma modular, dividindo o protótipo em três frentes principais.
 
-### 🔌 Eletrônica e controle
+### Eletrônica e controle
 
 Responsável pelo controle dos motores, sensores, teclado, display, iluminação, detecção de obstáculos e gerenciamento do compartimento de carga.
 
@@ -46,13 +46,13 @@ A implementação foi desenvolvida e testada no **Tinkercad**, utilizando dois A
 
 ➡️ [Ver documentação da eletrônica](docs/eletronica.md)
 
-### ⚙️ Estrutura mecânica
+### Estrutura mecânica
 
 O chassi e os elementos estruturais do robô foram modelados em **OpenSCAD**, considerando o posicionamento dos componentes eletrônicos e o compartimento destinado ao transporte da carga.
 
 ➡️ [Ver documentação mecânica](docs/mecanica.md)
 
-### 🌐 Simulação
+### Simulação
 
 O comportamento de navegação do robô foi representado no **Webots**, utilizando uma simulação baseada no ambiente do Centro de Tecnologia.
 
@@ -74,27 +74,21 @@ Também foram realizados testes das rotas e do comportamento de navegação na s
 
 ## 🔗 Recursos
 
-### 🔌 Circuito no Tinkercad
+### Circuito no Tinkercad
 
 O circuito eletrônico desenvolvido durante o projeto pode ser acessado diretamente no Tinkercad:
 
 ➡️ [Abrir projeto no Tinkercad](links/recursos.md)
 
-### 🎞️ Apresentação
+### Apresentação
 
 Os slides utilizados na apresentação do projeto serão disponibilizados nesta seção futuramente.
 
 ➡️ [`media/slides/`](media/slides/)
 
-### 🎥 Vídeos
-
-Demonstrações e registros em vídeo do projeto poderão ser adicionados nesta seção.
-
-➡️ [`media/videos/`](media/videos/)
-
 ---
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```text
 robo-entregador/
@@ -122,15 +116,14 @@ Cada diretório possui uma função específica dentro do projeto, permitindo se
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 Projeto desenvolvido por:
 
-* **[Nome do integrante 1]**
-* **[Nome do integrante 2]**
-* **[Nome do integrante 3]**
-* **[Nome do integrante 4]**
-* **[Nome do integrante 5]**
+* **[HECTOR PIMENTA AVILA CAVALCANTE]**
+* **[LIVIA SARAIVA DA COSTA]**
+* **[MARCIO ROSA BEZERRA CAVALCANTE]**
+* **[RENAN ARAUJO GONZALEZ]**
 
 ### Instituição
 
