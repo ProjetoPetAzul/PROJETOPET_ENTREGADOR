@@ -60,7 +60,7 @@ O comportamento de navegação do robô foi representado no **Webots**, utilizan
 
 ---
 
-## 🧪 Desenvolvimento e testes
+## Desenvolvimento e testes
 
 O projeto foi desenvolvido de forma incremental, com testes realizados ao longo das diferentes etapas de implementação.
 
@@ -72,7 +72,7 @@ Também foram realizados testes das rotas e do comportamento de navegação na s
 
 ---
 
-## 🔗 Recursos
+## Recursos
 
 ### Circuito no Tinkercad
 
